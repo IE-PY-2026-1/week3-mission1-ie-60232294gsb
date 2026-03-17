@@ -9,4 +9,4 @@ diff3 = average3 - last_avg3
 
 # 3. 출력
 print(f"{name3} 학생의 글쓰기 점수는 {writing3}, 파이썬 점수는 {python3} 입니다.")
-print(f"평균은 {average3} 이고, 지난 학기와의 차이는 {diff3} 입니다.")
+print(f"평균은 {average3} 이고, 지난 학기와 차이는 {diff3} 입니다.")
