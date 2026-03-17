@@ -1,7 +1,7 @@
 name3 = str(input("이름을 입력하시오 :"))
-writing3 = int(input("당신의 글쓰기 점수를 입력하시오 :"))
-python3 = int(input("당신의 파이썬 점수를 입력하시오 :"))
-last_avg3 = float(input("당신의 지난학기 평균을 입력하시오 :"))
+writing3 = int(input("당신의 글쓰기 점수를 입력하시오: "))
+python3 = int(input("당신의 파이썬 점수를 입력하시오: "))
+last_avg3 = float(input("당신의 지난학기 평균을 입력하시오: "))
 
 # 2. 계산
 average3 = (writing3 + python3)/2
